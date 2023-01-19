@@ -1,0 +1,23 @@
+.boton{
+    background-color: red;
+    color:white;
+    border-color: grey;
+    border-width: .05rem;
+    border-radius: .2rem;
+}
+
+.h2{
+    font-size: 15px;
+    background-color: rgb(128, 113, 113);
+    color:white;
+}
+
+.specie{
+    font-weight:600;
+    font-size:15px;
+}
+
+.gender{
+    font-weight:600;
+    font-size:15px;
+}
